@@ -1,0 +1,38 @@
+.header_bottom {
+  background: #04435E;
+  max-width: 100%;
+}
+.header_bottom-list {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.header_bottom-div {
+    display: flex;
+    gap: 20px;
+}
+.header_bottom-item-link {
+    text-decoration: none;
+    color: #fff;
+    width: 99.01px;
+    height: 26.4px;
+    top: 16px;
+    left: 367.13px;
+    gap: 10px;
+    opacity: 0px;
+}
+.header_bottom-item-btn {
+    padding: 5px 15px;
+    border-radius: 10px;
+    width: 64px;
+height: 44px;
+top: 10px;
+left: 1208px;
+padding: 10px 21.65px 10px 21.97px;
+gap: 0px;
+background-color: darkcyan;
+color: #fff;
+border: none;
+opacity: 0px;
+}

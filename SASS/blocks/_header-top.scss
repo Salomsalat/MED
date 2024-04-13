@@ -1,0 +1,20 @@
+.header_top {
+    padding-top: 10px;
+}
+.header_top-list {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.site_header-top-div{
+    display: flex;
+    gap: 5px;
+}
+.header_top-list-item-link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: #000;
+}
